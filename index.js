@@ -36,7 +36,7 @@ const start = () => {
             const bestSelling = data1.products;
             const smartDevices = [...data2.products, ...data3.products];
 
-            const titles = ["کالای پر فرش","کالای هوشمند"];
+            const titles = ["پرفروش‌ترین کالاها","کالای هوشمند"];
             let indexTitles = 0;
 
             const salesSection = [bestSelling,smartDevices];

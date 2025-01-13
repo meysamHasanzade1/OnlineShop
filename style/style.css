@@ -525,7 +525,7 @@ nav ul li a:hover::after{
 #footer a{
     display: block;
     padding: 8px;
-    color: #000;
+    color: #ddd;
     text-decoration: none;
 }
 #footer .imagesLogo{
